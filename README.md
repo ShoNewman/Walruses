@@ -2,7 +2,7 @@
 
 #### _An informational page about walruses_
 
-#### By _**By Shoshana Newman and Adrian Camacho**_
+#### By _**Shoshana Newman and Adrian Camacho**_
 
 ## Technologies Used
 
